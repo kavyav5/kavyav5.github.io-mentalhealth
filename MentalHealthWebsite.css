@@ -1,0 +1,21 @@
+.one
+{
+  color: green;
+}
+.menu {
+  list-style: none;
+  background-color: lightpink;
+  margin:0;
+  padding: 0px;
+  overflow: hidden;
+}
+.menu li{
+  float: left;
+}
+.menu li a{
+  display: blcok;
+  padding: 14px 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
