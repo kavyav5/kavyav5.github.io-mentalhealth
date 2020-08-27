@@ -34,7 +34,7 @@
   background-size: cover;
 </style>
 <div class="parallax"></div>
-<div style="height:2000px;background-color:lightgreen;">
+<div style="height:4000px;background-color:lightgreen;">
 <hr style = "color:green">
 <h2 class = "one">What is Mental Health?</h2>
 <ul style = "font-size: 20px">
