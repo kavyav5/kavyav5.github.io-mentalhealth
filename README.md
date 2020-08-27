@@ -6,7 +6,7 @@
 <body>
   <ul class = "menu">
     <li><a href = "MentalHealthWebsite.html" style = "font-size: 25px"> Home &nbsp </a></li>
-    <li><a href = "AboutUs.html" style = "font-size: 25px"> About Us &nbsp</a></li>
+    <li><a href = "aboutus.html" style = "font-size: 25px"> About Us &nbsp</a></li>
     <li><a href = "Happiness.html" style = "font-size: 25px"> Happiness &nbsp</a></li>
     <li><a href = "Relaxation.html" style = "font-size: 25px">Relaxation  &nbsp</a></li>
     <li><a href = "Confidence.html" style = "font-size: 25px"> Confidence  &nbsp</a></li>
