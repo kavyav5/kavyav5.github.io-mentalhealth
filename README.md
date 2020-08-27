@@ -1,4 +1,4 @@
-!DOCTYPE>
+#Moving Towards Mental Health
 <html>
 <head>
   <title> Moving Towards Mental Health</title>
