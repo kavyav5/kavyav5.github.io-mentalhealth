@@ -54,10 +54,8 @@
 <p style = "font-size: 20px"> <b>
   These three things will allow you to build your emotional resilience and ultimately, improve your mental health.
 </b></p>
-<img src = "emptycup.jpg" alt = "empty cup"
-width= "600" height="400" float = "right align = "right">
-<img src = "finalmh.jph.jpg" alt = "mental health"
-width= "600" height="400" float = "left align = "left">
+<img src = "emptycup.jpg" alt = "empty cup" width= "600" height="400" float = "right align = "right">
+<img src = "finalmh.jph.jpg" alt = "mental health" width= "600" height="400" float = "left align = "left">
 <div class="parallax"></div>
 </body>
 </html>
