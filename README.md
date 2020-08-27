@@ -1,7 +1,8 @@
+!DOCTYPE>
 <html>
 <head>
-  <h1 style = "color: green;text-align: center;"> Moving Towards Mental Health </h1>
- <link rel = "stylesheet" href = "MentalHealthWebsite.css">
+  <title> Moving Towards Mental Health</title>
+  <link rel = "stylesheet" href = "MentalHealthWebsite.css">
 </head>
 <body>
   <ul class = "menu">
@@ -12,6 +13,14 @@
     <li><a href = "Confidence.html"; style = "font-size: 25px"> Confidence  &nbsp</a></li>
     <li><a href = "mondaymotivation.html"; style = "font-size: 25px"> Monday Mental Motivation  &nbsp</a></li>
   </ul>
+<style>
+  #WebsiteHeader {
+    color: green;
+    padding: 40px;
+    text-align: center;
+  }
+</style>
+<h1 id="WebsiteHeader">Moving Towards Mental Health</h1>
 <style>
   body, html {
   height: 100%;
