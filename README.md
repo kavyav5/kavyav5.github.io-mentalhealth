@@ -6,12 +6,12 @@
 </head>
 <body>
   <ul class = "menu">
-    <li><a href = "MentalHealthWebsite.html"; style = "font-size: 25px"> Home &nbsp </a></li>
-    <li><a href = "AboutUs.html"; style = "font-size: 25px"> About Us &nbsp &nbsp</a></li>
-    <li><a href = "Happiness.html"; style = "font-size: 25px"> Happiness &nbsp</a></li>
-    <li><a href = "Relaxation.html"; style = "font-size: 25px">Relaxation  &nbsp</a></li>
-    <li><a href = "Confidence.html"; style = "font-size: 25px"> Confidence  &nbsp</a></li>
-    <li><a href = "mondaymotivation.html"; style = "font-size: 25px"> Monday Mental Motivation  &nbsp</a></li>
+    <li><a href = "MentalHealthWebsite.html" style = "font-size: 25px"> Home &nbsp </a></li>
+    <li><a href = "AboutUs.html" style = "font-size: 25px"> About Us &nbsp</a></li>
+    <li><a href = "Happiness.html" style = "font-size: 25px"> Happiness &nbsp</a></li>
+    <li><a href = "Relaxation.html" style = "font-size: 25px">Relaxation  &nbsp</a></li>
+    <li><a href = "Confidence.html" style = "font-size: 25px"> Confidence  &nbsp</a></li>
+    <li><a href = "mondaymotivation.html" style = "font-size: 25px"> Monday Mental Motivation  &nbsp</a></li>
   </ul>
 <style>
   #WebsiteHeader {
