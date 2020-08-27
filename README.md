@@ -1,5 +1,6 @@
 <html>
 <head>
+  <h1 style = "color: green;text-align: center;"> Moving Towards Mental Health </h1>
  <link rel = "stylesheet" href = "MentalHealthWebsite.css">
 </head>
 <body>
